@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tiwariakshat245/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwariakshat245/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tiwariakshat245/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tiwariakshat245/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tiwariakshat245/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
