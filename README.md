@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tiwariakshat245/DSA/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tiwariakshat245/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwariakshat245/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tiwariakshat245/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
