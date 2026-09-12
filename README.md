@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiwariakshat245/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tiwariakshat245/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/tiwariakshat245/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tiwariakshat245/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tiwariakshat245/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/tiwariakshat245/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tiwariakshat245/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
