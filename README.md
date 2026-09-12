@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tiwariakshat245/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiwariakshat245/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tiwariakshat245/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/tiwariakshat245/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/tiwariakshat245/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tiwariakshat245/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/tiwariakshat245/DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/tiwariakshat245/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
