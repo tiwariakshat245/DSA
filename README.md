@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tiwariakshat245/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiwariakshat245/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tiwariakshat245/DSA/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwariakshat245/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tiwariakshat245/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiwariakshat245/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tiwariakshat245/DSA/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwariakshat245/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tiwariakshat245/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tiwariakshat245/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/tiwariakshat245/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tiwariakshat245/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
