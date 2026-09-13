@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tiwariakshat245/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tiwariakshat245/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/tiwariakshat245/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tiwariakshat245/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tiwariakshat245/DSA/tree/master/0217-contains-duplicate) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tiwariakshat245/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
