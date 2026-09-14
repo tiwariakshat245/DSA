@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tiwariakshat245/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiwariakshat245/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tiwariakshat245/DSA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariakshat245/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tiwariakshat245/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/tiwariakshat245/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tiwariakshat245/DSA/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariakshat245/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tiwariakshat245/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tiwariakshat245/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tiwariakshat245/DSA/tree/master/0367-valid-perfect-square) |
