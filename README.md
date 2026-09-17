@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/tiwariakshat245/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tiwariakshat245/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tiwariakshat245/DSA/tree/master/0367-valid-perfect-square) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tiwariakshat245/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Trie
 |  |
 | ------- |
