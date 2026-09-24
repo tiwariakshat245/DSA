@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tiwariakshat245/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/tiwariakshat245/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tiwariakshat245/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiwariakshat245/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tiwariakshat245/DSA/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tiwariakshat245/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tiwariakshat245/DSA/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/tiwariakshat245/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tiwariakshat245/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tiwariakshat245/DSA/tree/master/0344-reverse-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tiwariakshat245/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tiwariakshat245/DSA/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -199,4 +202,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tiwariakshat245/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/tiwariakshat245/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tiwariakshat245/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
