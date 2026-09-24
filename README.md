@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tiwariakshat245/DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/tiwariakshat245/DSA/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/tiwariakshat245/DSA/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/tiwariakshat245/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/tiwariakshat245/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tiwariakshat245/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tiwariakshat245/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tiwariakshat245/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tiwariakshat245/DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/tiwariakshat245/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tiwariakshat245/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/tiwariakshat245/DSA/tree/master/0263-ugly-number) |
