@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tiwariakshat245/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tiwariakshat245/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tiwariakshat245/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tiwariakshat245/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tiwariakshat245/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tiwariakshat245/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/tiwariakshat245/DSA/tree/master/0263-ugly-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tiwariakshat245/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwariakshat245/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tiwariakshat245/DSA/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tiwariakshat245/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
