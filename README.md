@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tiwariakshat245/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tiwariakshat245/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/tiwariakshat245/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tiwariakshat245/DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/tiwariakshat245/DSA/tree/master/0065-valid-number) |
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwariakshat245/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tiwariakshat245/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tiwariakshat245/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
