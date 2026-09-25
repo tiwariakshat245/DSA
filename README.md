@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tiwariakshat245/DSA/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwariakshat245/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1396-design-underground-system](https://github.com/tiwariakshat245/DSA/tree/master/1396-design-underground-system) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tiwariakshat245/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tiwariakshat245/DSA/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/tiwariakshat245/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1396-design-underground-system](https://github.com/tiwariakshat245/DSA/tree/master/1396-design-underground-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tiwariakshat245/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tiwariakshat245/DSA/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/tiwariakshat245/DSA/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
