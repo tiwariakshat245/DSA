@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tiwariakshat245/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tiwariakshat245/DSA/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tiwariakshat245/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tiwariakshat245/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tiwariakshat245/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tiwariakshat245/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/tiwariakshat245/DSA/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tiwariakshat245/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tiwariakshat245/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
